@@ -1,0 +1,15 @@
+{
+    "software_name": "SEDACoE Clinic",
+    "brand_name": "S. Clinic", 
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "contact": "+1234567890",
+    "location": "New York, USA",
+    "software_logo": "../assets/img/avatars/logo.png",
+    "software_favicon": "../assets/img/avatars/logo.png",
+    "company": "Phinnatek I.T Services", 
+  "version": "9.1",
+  "download": "https://phinnatek.com/server-files/softwares/PhinSkul-9.1.zip",
+  "force_update": false,
+  "changelog": "Bug fixes and performance improvements"
+} 
